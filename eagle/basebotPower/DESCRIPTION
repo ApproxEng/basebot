@@ -1,1 +1,2 @@
-BaseBot power distribution and charge hub
+<h1>Power Distribution</h1>
+BaseBot power distribution and charge hub, intended to connect a rechargable NiMh battery pack and provide a charging jack as well as servo connections. The servo connections use the battery ground and power for their ground and power pins, and expose the data pins on a female header, along with the battery power and ground lines, to simplify connection to a microcontroller or similar.
