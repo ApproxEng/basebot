@@ -1,0 +1,1 @@
+This is a very naive control algorithm using a CMU Pixy v5 to home in on colour signatures. It uses a simple hysterisis mechanism rather than any kind of PID controller and therefore judders around like a crazy thing. It appeared to amuse the children though at the Science Centre demo!
